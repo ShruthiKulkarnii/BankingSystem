@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: rgb(240, 239, 239);
+    
+}
+a:hover {
+    color:burlywood;
+    text-decoration: none;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #960c0c;   
+  }
+  .bg {
+    background-image: url(../img/bg.jpg);
+    height : 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
